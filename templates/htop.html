@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>/htop Endpoint</title>
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+      pre {
+        background-color: #f0f0f0;
+        padding: 10px;
+        overflow-x: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>/htop Information</h1>
+    <p><strong>Name:</strong> {{ data.name }}</p>
+    <p><strong>Username:</strong> {{ data.username }}</p>
+    <p><strong>Server Time (IST):</strong> {{ data.server_time_ist }}</p>
+    <h2>Top Output:</h2>
+    <pre>{{ data.top_output }}</pre>
+  </body>
+</html>
