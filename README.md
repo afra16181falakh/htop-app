@@ -21,7 +21,5 @@ python app.py
 
 Open your web browser and navigate to `http://localhost:5000` to access the application.
 
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
 
 
