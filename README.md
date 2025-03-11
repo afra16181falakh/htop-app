@@ -24,5 +24,4 @@ Open your web browser and navigate to `http://localhost:5000` to access the appl
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
